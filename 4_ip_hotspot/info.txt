@@ -1,0 +1,7 @@
+http://mikrotik.co.id/artikel_lihat.php?id=125
+
+
+clear 
+capativeportalogin
+htmlviewer
+

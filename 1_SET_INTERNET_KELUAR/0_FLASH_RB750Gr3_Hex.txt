@@ -1,0 +1,31 @@
+pastikan ethernet cable colok ke OS 
+static ethernet cabel contoh pakai : 192.168.88.7 (bebas ipnya )
+
+
+
+nah kalo vm pastikan bridge di virtualboxnya  (disable enable untuk restart)
+
+pastikan ens (karena bridge) bukan depannya W, karena W Wifi
+
+selanjutkan pastikan ip static di os nya 192.168.88.10 (disable enable untuk restart)
+
+
+kemudian pilih net booting
+centang boot server enabled
+isikan IP untuk digunakan mikrotiknya (yg belum digunakan ip di atas)
+
+( di tahap ini sama semerti melakukan restart mikrotik namun sampai muncul mac addressnya  ketika sudah muncul baru mmelakukan hal selanjutnya )
+
+
+kemudian  ganti from dengan npk yang digunakan 
+karena menggunakan RB 750gr3 maka menggunakan MMIPS
+
+centang reoutes mmips
+
+lalu kemudian flesh
+
+
+
+
+
+selesai.

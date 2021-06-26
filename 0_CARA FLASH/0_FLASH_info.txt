@@ -1,0 +1,129 @@
+
+
+---------- Forwarded message ---------
+From: Mikrotik Indonesia <layanan@mikrotik.co.id>
+Date: Tue, Feb 12, 2019 at 2:01 PM
+Subject: [MT-ID LAYANAN] - Kerusakan Barang - Re: Mikrotik hAP Rus
+To: Dimas Satria Wira Putra <supersoccerwifi@gmail.com>
+
+
+====================================================================
+CITRAWEB SOLUSI TEKNOLOGI (MIKROTIK INDONESIA)
+--------------------------------------------------------------------
+Mikrotik Authorized Distributor
+Certified Mikrotik Training Partner
+====================================================================
+Subscribe our Youtube Channel: https://mikrotik.id/r/youtube/
+Follow our Instagram : @mikrotik.indonesia
+Follow twitter kami: @mikrotik_id -> http://twitter.com/mikrotik_id
+====================================================================
+
+Pelanggan Yth Dimas Satria Wira Putra,
+
+Kami telah menjawab pertanyaan Anda di LAYANAN Mikrotik.co.id.
+
+Kategori Layanan : Kerusakan Barang
+Subyek : Re: Mikrotik hAP Rusak Tidak Terdeteksi LAN
+Pesan :
+
+
+Apabila Anda lupa username/password atau router gagal booting, Anda
+bisa melakukan install ulang router dengan langkah-langkah berikut :
+1. Download program Netinstall dari halaman
+http://www.mikrotik.com/download.html
+2. Download combined package routerOS dari halaman
+http://www.mikrotik.com/download.html, sesuaikan dengan tipe router
+Anda dan versi yang ingin Anda gunakan.
+
+3. Setting PC Anda menggunakan IP statik. (misalnya: IP 192.168.1.1
+netmask 255.255.255.0)
+dan tancapkan kabel ethernet dari PC anda ke port ether1 router Anda.
+
+4. Jalankan program Netinstall dan tekan tombol Net booting, kemudian
+Anda aktifkan
+/ centang Boot Server enabled, lalu isikan Client IP address dengan
+IP yang satu
+subnet dengan IP statik PC Anda (misalnya : 192.168.1.2)
+dan tekan tombol OK.
+
+5. Tekan tombol browse lalu pilih folder dimana Anda menyimpan file
+*.npk yang
+sudah anda download di langkah ke-2.
+
+6. Cabut power adaptor router Anda.
+7. Tekan tombol reset kecil yang ada di router Anda, dan anda tahan.
+
+8. Sambil tetap ditahan, Anda nyalakan power adaptornya.
+9. Tunggu beberapa saat, nanti di program Netinstall anda akan muncul
+mac-address
+dari router Anda.
+
+10. Lepaskan tombol reset, kemudian Anda tekan mac-address router di
+program
+Netinstall dan pilih paket yang akan anda gunakan untuk instalasi
+(tercentang)
+
+11. Tekan tombol install, nanti proses instalasi akan ditampilkan di
+program
+Netinstall.
+
+12. Jika proses instalasi sudah selesai, tombol Install akan berubah
+menjadi
+reboot, silahkan anda tekan tombol tersebut dan proses instalasi
+sudah selesai.
+
+Catatan :
+
+1. Jangan terlalu memaksa/kuat untuk menekan tombol reset karena bisa
+mengakibatkan
+tombol reset rusak. Jika router Anda memiliki port serial, kami
+sarankan anda gunakan kabel serial
+untuk merubah boot-device ke port ethernet.
+2. Sebelum menjalankan aplikasi netinstall, pastikan semua firewall
+dan antivirus
+yang ada di PC Anda didisable dahulu.
+3. Proses Instalasi menggunakan netinstall akan menghapus semua
+konfigurasi router
+Anda, sehingga default username=admin, password=(kosong tidak perlu
+diisi).
+
+
+====================================================================
+
+Harap tidak menjawab atau mengomentari dengan me-reply email ini.
+Jika Anda ingin menanyakan hal lain lebih jauh, harap menggunakan
+fasilitas LAYANAN di situs kami.
+
+Jika kami melampirkan attachment, dapat dibuka/dilihat/didownload
+dengan mengakses fasilitas LAYANAN di website kami (attachment tidak
+kami sertakan bersama email ini).
+
+Pertanyaan LAYANAN ini akan kami tutup dan tidak dapat dikomentari
+lagi jika Anda tidak menjawab layanan ini dalam waktu 7 hari.
+
+Setelah itu, Anda masih dapat bertanya dengan membuka topik baru di
+bagian Layanan, dengan kategori yang sesuai dengan pertanyaan Anda.
+
+Hormat kami,
+
+Mikrotik Indonesia
+
+
+====================================================================
+CITRAWEB SOLUSI TEKNOLOGI, PT (MIKROTIK INDONESIA)
+http://www.mikrotik.co.id
+--------------------------------------------------------------------
+Kantor Pusat:
+Jalan Petung No.31 Papringan Yogyakarta
+Telp: +62-274-554444
+Fax: +62-274-553055
+--------------------------------------------------------------------
+Jakarta Representative:
+Gedung Cyber Lt 11 Jl Kuningan Barat No 8
+Jakarta 12710
+Telp: +62-21-5209612
+Fax: +62-21-5209614
+
+--
+
+1549954868

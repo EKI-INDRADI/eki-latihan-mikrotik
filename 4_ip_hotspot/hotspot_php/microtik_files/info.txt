@@ -1,0 +1,2 @@
+kalo login.html ini untuk direct ke halaman login.php di server
+kalo login-test.html ini halaman login juga untuk direct ke logintest.php di server
